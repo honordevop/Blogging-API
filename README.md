@@ -1,6 +1,4 @@
-# Blog Api
-
-Blogging API is a project submitted for 3MTT Backend Engineering – Intermediate Module Assessment.
+# Blogging API is a project submitted for 3MTT Backend Engineering – Intermediate Module Assessment.
 
 ## Built with
 
@@ -8,16 +6,6 @@ Blogging API is a project submitted for 3MTT Backend Engineering – Intermediat
 - Node.Js
 - MONGODB
 - Express.Js
-
-## Table of Contents
-
-- Prerequisites
-- Requirements
-- Setup
-- Base URL
-- Models
-- Endpoints
-- Tests on all endpoints
 
 ## Prerequisites
 
@@ -46,7 +34,13 @@ Blogging API is a project submitted for 3MTT Backend Engineering – Intermediat
 
 ## Base URL
 
-On local host : http://localhost:4000/ (In this case my PORT was set to 4000 in the .env file)
+# On local host :
+
+http://localhost:4000/ (In this case my PORT was set to 4000 in the .env file)
+
+# Hosted on render:
+
+https://altblogging.onrender.com/blogs
 
 <!-- [BlogAPI](/blogs) -->
 
